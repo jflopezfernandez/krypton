@@ -1,0 +1,9 @@
+
+#ifndef INCLUDE_KRYPTON_CONFIG_HPP
+#define INCLUDE_KRYPTON_CONFIG_HPP
+
+#define krypton_VERSION_MAJOR 0
+#define krypton_VERSION_MINOR 0
+
+#endif // INCLUDE_KRYPTON_CONFIG_HPP
+
